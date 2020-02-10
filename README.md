@@ -480,7 +480,7 @@
     <p>
         <em>¿Qué fue lo más fácil de implementar?</em>
         <br>
-        <small>XXXXXXXXXXX</small>
+        <small>los registros</small>
     </p>
     <p>
         <em>¿Qué cambiaría en el desempeño del catedrático?</em>
